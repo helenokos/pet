@@ -1,6 +1,6 @@
 ## 寵物養成
 根據不同的養成方式，來培養出不同的寵物吧！  
-[google drive 執行檔載點](https://drive.google.com/drive/folders/1Kd-pRcOUZjqUnCbtszohGquqUogkmqNt?usp=sharing)
+[執行檔載點](https://drive.google.com/drive/folders/1Kd-pRcOUZjqUnCbtszohGquqUogkmqNt?usp=sharing)
 ### 製作方法
 - Unity3D + C#
 - [模組來源](https://sketchfab.com/)
