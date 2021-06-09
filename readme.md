@@ -3,7 +3,6 @@
 - [執行檔載點](https://drive.google.com/drive/folders/1Kd-pRcOUZjqUnCbtszohGquqUogkmqNt?usp=sharing)
 ### 製作方法
 - Unity3D + C#
-- [模組來源](https://sketchfab.com/)
 ### 運行平台
 - Windows x86_64
 ### 畫面比例
